@@ -1,7 +1,7 @@
 # Hey Folks! 👋
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Bots%2%20Developer!%22);print(%22Sheldon%2%20Cooper!%22);System.out.println(%22Why%2%20WE%2%20Exist!%22);printf(%22Dhruv%2%20Tiwari!%22);cout%20%3C%3C%20%22Software%2%20Developer!%22&center=true&size=27&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Bots%20Developer!%22);print(%22Sheldon%20Cooper!%22);System.out.println(%22Why%20WE%20Exist!%22);printf(%22Dhruv%20Tiwari!%22);cout%20%3C%3C%20%22Software%20Developer!%22&center=true&size=27&width=550">
   </a>
 </h1>
 </br>
@@ -115,7 +115,8 @@ I'm a passionate software developer who loves to create awesome projects and web
 <br>
 
 # 📊 GitHub Stats:
-<p align="centre">
+<p align= "center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whyweexist&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=whyweexist&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
