@@ -110,8 +110,6 @@ I'm a passionate software developer who loves to create awesome projects and web
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-010101.svg?logo=netlify&logoColor=white" height="24"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="24"></a>
 </p>
-
-
 <br>
 
 # 📊 GitHub Stats:
@@ -124,10 +122,7 @@ I'm a passionate software developer who loves to create awesome projects and web
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whyweexist&theme=tokyonight)
 
 <br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=whyweexist&theme=solarized-dark&hide_border=false)<br/>
-
-
 <br>
 </p>
 
