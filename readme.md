@@ -132,7 +132,7 @@ I'm a passionate software developer who loves to create awesome projects and web
 
 # 👀 Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/rahulmaurya-exe/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/whyweexist/count.svg)
 
 
 <br>
@@ -155,7 +155,7 @@ You can find me on various platforms. Let's connect and chat!
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Personal Website](https://www.yourwebsite.com) -->
 
-### 🤝 Looking to Collaborate?
+# 🤝 Looking to Collaborate?
 
 I'm always open to collaborating on interesting software and web development projects. If you have an idea or project in mind, feel free to reach out to me. Let's build something amazing together!
 
