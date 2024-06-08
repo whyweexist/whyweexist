@@ -1,7 +1,7 @@
-# Yā 👋
+# Hey Folks! 👋
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Bots%2C%20Developer!%22);print(%22Levi%2C%20Ackerman!%22);System.out.println(%22Why%2C%20WE%2C%20Exist!%22);printf(%22Dhruv%2C%20Tiwari!%22);cout%20%3C%3C%20%22Software%2C%20Developer!%22&center=true&size=27&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Bots%2%20Developer!%22);print(%22Sheldon%2%20Cooper!%22);System.out.println(%22Why%2%20WE%2%20Exist!%22);printf(%22Dhruv%2%20Tiwari!%22);cout%20%3C%3C%20%22Software%2%20Developer!%22&center=true&size=27&width=550">
   </a>
 </h1>
 </br>
@@ -100,6 +100,7 @@ I'm a passionate software developer who loves to create awesome projects and web
 <p>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white" height="24"></a>
 </p>
+
 ### 🗄️ Databases and cloud hosting
 
 <p>
@@ -114,6 +115,7 @@ I'm a passionate software developer who loves to create awesome projects and web
 <br>
 
 # 📊 GitHub Stats:
+<p align="centre">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whyweexist&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=whyweexist&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -122,10 +124,11 @@ I'm a passionate software developer who loves to create awesome projects and web
 
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulmaurya-exe&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=whyweexist&theme=solarized-dark&hide_border=false)<br/>
 
 
 <br>
+</p>
 
 # 👀 Visitor Counter
 
