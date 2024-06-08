@@ -122,7 +122,9 @@ I'm a passionate software developer who loves to create awesome projects and web
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whyweexist&theme=tokyonight)
 
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=whyweexist&theme=solarized-dark&hide_border=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=whyweexist&theme=solarized-dark&hide_border=false)
+
 <br>
 </p>
 
