@@ -1,7 +1,7 @@
 # Hey Folks! 👋
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Bots%20Developer!%22);print(%22Sheldon%20Cooper!%22);System.out.println(%22Why%20WE%20Exist!%22);printf(%22Dhruv%20Tiwari!%22);cout%20%3C%3C%20%22Software%20Developer!%22&center=true&size=27&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Bots%20Developer!%22);print(%22Sheldon%20Cooper!%22);System.out.println(%22Why%20WE%20Exist!)%22);printf(%22Dhruv%20Tiwari!%22);cout%20%3C%3C%20%22Software%20Developer!%22&center=true&size=27&width=550">
   </a>
 </h1>
 </br>
@@ -145,9 +145,9 @@ I'm a passionate software developer who loves to create awesome projects and web
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/asdf) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/asdf) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@asdf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/asdf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/asdf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@asdf)  -->
 
-<!-- ## 💻 Programming Quotes
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
- -->
+## 💻 Programming Quotes
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+ 
  <!-- ## 📫 Let's Connect
 
 You can find me on various platforms. Let's connect and chat!
