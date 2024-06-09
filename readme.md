@@ -115,15 +115,15 @@ I'm a passionate software developer who loves to create awesome projects and web
 # 📊 GitHub Stats:
 <p align= "center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whyweexist&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whyweexist&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=whyweexist&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=whyweexist&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whyweexist&theme=tokyonight)
 
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=whyweexist&theme=solarized-dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=whyweexist&theme=tokyonight&hide_border=false)
 
 <br>
 </p>
@@ -143,7 +143,7 @@ I'm a passionate software developer who loves to create awesome projects and web
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/asdf) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/asdf) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@asdf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/asdf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/asdf) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@asdf)  -->
 
 ## 💻 Programming Quotes
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
  
  <!-- ## 📫 Let's Connect
 
