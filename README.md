@@ -7,7 +7,7 @@
 </br>
 
 <h1> 👨🏻‍💻 Hey, I'm Dhruv (whyweexist)!  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-I'm a passionate software developer who loves to create awesome projects and web applications. Welcome to my GitHub profile! 
+I'm a passionate software and web 3 developer who loves to create awesome projects and web applications. Welcome to my GitHub profile! 
 <br> 
 <h1>🚀 About Me</h1>
 <div style="display:flex; align-items:center; justify-content: center; ">
