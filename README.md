@@ -20,7 +20,7 @@ I'm a passionate software and web 3 developer who loves to create awesome projec
  <div >
 
 - 🌱 I’m currently learning and exploring new technologies in every scope of tech.
-- 🎓 I am an enthusiast in Machine Learning and AI based projects.
+- 🎓 I am an enthusiast in Machine Learning, Blockchaina and AI based projects.
 - 💡 I enjoy working on real life application based development and creating user-friendly interfaces.
 - 💼 I'm actively seeking opportunities to collaborate on various projects.
 - 🎓 I am currently pursuing a degree in Computer Science (Artificial Intelligence and Machine Learning) and have a strong foundation in programming and Mathematics.
@@ -30,6 +30,7 @@ I'm a passionate software and web 3 developer who loves to create awesome projec
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Machine Learning & AI
+- ✨ Blockchain and Web3 Solana
 
 ### - Hobbies : 
 - ✨ Sketching
