@@ -122,11 +122,10 @@ I'm a passionate software and web 3 developer who loves to create awesome projec
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whyweexist&theme=tokyonight)
 
-<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=whyweexist&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=whyweexist&theme=tokyonight&hide_border=true)
 
-<br>
+</br>
 </p>
 
 # 👀 Visitor Counter
