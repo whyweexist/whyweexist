@@ -123,7 +123,7 @@ I'm a passionate software and web 3 developer who loves to create awesome projec
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whyweexist&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=whyweexist&theme=tokyonight&hide_border=true)
-[![](https://streak-stats.demolab.com?user=whyweexist&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 </p>
